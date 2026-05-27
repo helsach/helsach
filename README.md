@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Helsa Christabel Harsono</h1>
-<h3 align="center">a Computer Engineering Technology student who loves combining UI/UX design with web development.</h3>
+<h3 align="center">Computer Engineering Technology student who loves combining UI/UX design with web development.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helsach&label=Profile%20views&color=0e75b6&style=flat" alt="helsach" /> </p>
 
